@@ -1,0 +1,10 @@
+.image-container{
+    display: flex;
+    gap: 3rem;
+}
+
+.image-container img{
+    width: 45rem;
+    height: 30rem;
+    border-radius: 0.5rem;
+}
